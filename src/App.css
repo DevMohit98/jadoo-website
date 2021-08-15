@@ -1,38 +1,71 @@
-.App {
-  text-align: center;
-}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bg {
+  background-color: #fafafa;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-toggler {
+  border: none !important;
+  background: none;
+  color: #494949;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navbar-toggler:focus {
+  box-shadow: none;
 }
-
-.App-link {
-  color: #61dafb;
+.navbar .navbar-nav {
+  margin: 0 12px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-link {
+  margin: 0.8rem;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #212832;
+}
+.nav-link:hover {
+  text-transform: uppercase;
+  color: #212832;
+}
+.nav-link:focus {
+  text-decoration: underline;
+  padding: 2px;
+  color: #212832;
+}
+.button {
+  width: 102px;
+  height: 40px;
+  margin: 12.8px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 0.5rem;
+  border: 1px solid #212832;
+  background-color: #fafafa;
+}
+.tag-line {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  color: #df6951;
+  text-transform: uppercase;
+}
+.moto {
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  color: #181e4b;
+}
+.hero-discription {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
+  width: 80%;
+}
+.find {
+  width: 170px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #f1a501;
+  color: #fafafafa;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  outline: none;
+  border: 1px solid #f1a501;
 }
