@@ -70,25 +70,17 @@
   border: 1px solid #f1a501;
 }
 .play-icon {
-  width: 70px;
-  height: 70px;
-  display: inline;
-  color: white;
-  display: inline-block;
+  width: 60px;
+  height: 60px;
+  color: #df6951;
 }
 .play-button {
   width: 170px;
-  height: 70px;
+  height: 60px;
   background: none;
   border: none;
   border-radius: 10px;
-  color: #686d77;
-}
-.play-circle {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  background-color: #df6951;
+  color: hsl(220, 7%, 44%);
 }
 
 @media screen and (max-width: 576px) {
@@ -97,5 +89,8 @@
   }
   .p-4 {
     padding: 0.5rem !important;
+  }
+  .play-button {
+    margin-top: 10px;
   }
 }
