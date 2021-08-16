@@ -8,14 +8,14 @@ const Hero = () => {
         <div className="d-md-flex">
           <div>
             <h1 className="tag-line">Best detination around the world</h1>
-            <p className="moto my-3 ">Travel,enjoy and live a new</p>
-            <p className="hero-discription my-4 text-start">
+            <p className="moto  ">Travel,enjoy and live a new</p>
+            <p className="hero-discription py-3">
               Built Wicket longer admire do barton vanity itself do in it.
               Preferred to sportsmen it engrossed listening. Park gate sell they
               west hard for the.
             </p>
             <div classname="d-flex">
-              <button type="button" className="find">
+              <button type="button" className="hero-button ">
                 Find Out More
               </button>
             </div>

@@ -46,7 +46,7 @@
   text-transform: uppercase;
 }
 .moto {
-  font-size: 5rem;
+  font-size: 5.25rem;
   font-weight: bold;
   font-family: "Poppins", sans-serif;
   color: #181e4b;
@@ -58,7 +58,7 @@
   color: #5e6282;
   width: 80%;
 }
-.find {
+.hero-button {
   width: 170px;
   height: 60px;
   border-radius: 10px;
@@ -68,4 +68,34 @@
   font-family: "Poppins", sans-serif;
   outline: none;
   border: 1px solid #f1a501;
+}
+.play-icon {
+  width: 70px;
+  height: 70px;
+  display: inline;
+  color: white;
+  display: inline-block;
+}
+.play-button {
+  width: 170px;
+  height: 70px;
+  background: none;
+  border: none;
+  border-radius: 10px;
+  color: #686d77;
+}
+.play-circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #df6951;
+}
+
+@media screen and (max-width: 576px) {
+  .moto {
+    font-size: 3rem;
+  }
+  .p-4 {
+    padding: 0.5rem !important;
+  }
 }
