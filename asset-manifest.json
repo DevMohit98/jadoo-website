@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jadoo-website/static/css/main.253baba9.chunk.css",
-    "main.js": "/jadoo-website/static/js/main.e30297fb.chunk.js",
-    "main.js.map": "/jadoo-website/static/js/main.e30297fb.chunk.js.map",
-    "runtime-main.js": "/jadoo-website/static/js/runtime-main.6ba263c9.js",
-    "runtime-main.js.map": "/jadoo-website/static/js/runtime-main.6ba263c9.js.map",
-    "static/js/2.72e61575.chunk.js": "/jadoo-website/static/js/2.72e61575.chunk.js",
-    "static/js/2.72e61575.chunk.js.map": "/jadoo-website/static/js/2.72e61575.chunk.js.map",
-    "static/js/3.8927a27e.chunk.js": "/jadoo-website/static/js/3.8927a27e.chunk.js",
-    "static/js/3.8927a27e.chunk.js.map": "/jadoo-website/static/js/3.8927a27e.chunk.js.map",
+    "main.css": "/jadoo-website/static/css/main.1394f3e7.chunk.css",
+    "main.js": "/jadoo-website/static/js/main.89c0922b.chunk.js",
+    "main.js.map": "/jadoo-website/static/js/main.89c0922b.chunk.js.map",
+    "runtime-main.js": "/jadoo-website/static/js/runtime-main.e8b6255d.js",
+    "runtime-main.js.map": "/jadoo-website/static/js/runtime-main.e8b6255d.js.map",
+    "static/js/2.7798430e.chunk.js": "/jadoo-website/static/js/2.7798430e.chunk.js",
+    "static/js/2.7798430e.chunk.js.map": "/jadoo-website/static/js/2.7798430e.chunk.js.map",
+    "static/js/3.fa54ad92.chunk.js": "/jadoo-website/static/js/3.fa54ad92.chunk.js",
+    "static/js/3.fa54ad92.chunk.js.map": "/jadoo-website/static/js/3.fa54ad92.chunk.js.map",
     "index.html": "/jadoo-website/index.html",
-    "static/css/main.253baba9.chunk.css.map": "/jadoo-website/static/css/main.253baba9.chunk.css.map",
-    "static/js/2.72e61575.chunk.js.LICENSE.txt": "/jadoo-website/static/js/2.72e61575.chunk.js.LICENSE.txt",
+    "static/css/main.1394f3e7.chunk.css.map": "/jadoo-website/static/css/main.1394f3e7.chunk.css.map",
+    "static/js/2.7798430e.chunk.js.LICENSE.txt": "/jadoo-website/static/js/2.7798430e.chunk.js.LICENSE.txt",
     "static/media/Logo.89ee3a81.svg": "/jadoo-website/static/media/Logo.89ee3a81.svg",
     "static/media/nav.61a77f23.svg": "/jadoo-website/static/media/nav.61a77f23.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ba263c9.js",
-    "static/js/2.72e61575.chunk.js",
-    "static/css/main.253baba9.chunk.css",
-    "static/js/main.e30297fb.chunk.js"
+    "static/js/runtime-main.e8b6255d.js",
+    "static/js/2.7798430e.chunk.js",
+    "static/css/main.1394f3e7.chunk.css",
+    "static/js/main.89c0922b.chunk.js"
   ]
 }
