@@ -4,7 +4,7 @@ import nav from "../Assests/nav.svg";
 import { BsFillPlayFill } from "react-icons/bs";
 const Hero = () => {
   return (
-    <section className="bg  p-4  text-sm-start">
+    <section className="bg  p-4  text-md-start">
       <div className="container">
         <div className="d-md-flex">
           <div>

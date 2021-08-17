@@ -39,7 +39,7 @@
   background-color: #fafafa;
 }
 .tag-line {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: bold;
   font-family: "Poppins", sans-serif;
   color: #df6951;
@@ -52,7 +52,7 @@
   color: #181e4b;
 }
 .hero-discription {
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   color: #5e6282;
@@ -64,7 +64,7 @@
   border-radius: 10px;
   background-color: #f1a501;
   color: #fafafafa;
-  font-size: 18px;
+  font-size: 1.12rem;
   font-family: "Poppins", sans-serif;
   outline: none;
   border: 1px solid #f1a501;
@@ -80,7 +80,36 @@
   background: none;
   border: none;
   border-radius: 10px;
-  color: hsl(220, 7%, 44%);
+  color: #686d77;
+}
+.category-title {
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
+  text-transform: uppercase;
+}
+.category-moto {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  color: #14183e;
+}
+.card {
+  border: none;
+}
+.card:hover {
+  border-radius: 2px soild #ffffff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+}
+.card-title {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #1e1d4c;
+}
+.card-text {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
 }
 
 @media screen and (max-width: 576px) {
@@ -92,5 +121,11 @@
   }
   .play-button {
     margin-top: 10px;
+  }
+  .category-title {
+    font-size: 1.5rem;
+  }
+  .category-moto {
+    font-size: 1.3rem;
   }
 }
