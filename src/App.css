@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
 .bg {
-  background-color: #fafafa;
+  background-color: #fafafafa;
 }
 .navbar-toggler {
   border: none !important;
@@ -82,13 +82,15 @@
   border-radius: 10px;
   color: #686d77;
 }
-.category-title {
+.category-title,
+.destination-title {
   font-size: 2rem;
   font-family: "Poppins", sans-serif;
   color: #5e6282;
   text-transform: uppercase;
 }
-.category-moto {
+.category-moto,
+.destination-moto {
   font-family: "Poppins", sans-serif;
   font-size: 3rem;
   color: #14183e;
@@ -96,11 +98,7 @@
 .card {
   border: none;
 }
-.card:hover {
-  border-radius: 2px soild #ffffff;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  border-radius: 20px;
-}
+
 .card-title {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
@@ -109,6 +107,32 @@
 .card-text {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
+  color: #5e6282;
+}
+.card:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+.book-tag {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.12rem;
+  color: #5e6282;
+}
+.book-moto {
+  font-family: "Poppins", sans-serif;
+  font-size: 3.12rem;
+  color: #14183e;
+  width: 31.9rem;
+}
+.value-tag {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #5e6282;
+}
+.value-moto {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
   color: #5e6282;
 }
 
@@ -127,5 +151,9 @@
   }
   .category-moto {
     font-size: 1.3rem;
+  }
+  .book-moto {
+    font-size: 2rem;
+    width: 21.9rem;
   }
 }

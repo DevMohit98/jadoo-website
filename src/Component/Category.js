@@ -8,7 +8,7 @@ const Category = () => {
   return (
     <section className="p-5 bg">
       <h1 className="category-title text-center">category</h1>
-      <h1 className="category-moto text-center p-4">We Offer Best Services</h1>
+      <h3 className="category-moto text-center p-4">We Offer Best Services</h3>
       <div className="container">
         <div className="row text-center g-4">
           <div className="col-lg ">
