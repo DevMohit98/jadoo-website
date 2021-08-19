@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jadoo-website/static/css/main.494a0a52.chunk.css",
-    "main.js": "/jadoo-website/static/js/main.c0437192.chunk.js",
-    "main.js.map": "/jadoo-website/static/js/main.c0437192.chunk.js.map",
+    "main.js": "/jadoo-website/static/js/main.db926e70.chunk.js",
+    "main.js.map": "/jadoo-website/static/js/main.db926e70.chunk.js.map",
     "runtime-main.js": "/jadoo-website/static/js/runtime-main.e8b6255d.js",
     "runtime-main.js.map": "/jadoo-website/static/js/runtime-main.e8b6255d.js.map",
     "static/js/2.478ccc17.chunk.js": "/jadoo-website/static/js/2.478ccc17.chunk.js",
@@ -17,9 +17,14 @@
     "static/media/Local.e74d19c1.svg": "/jadoo-website/static/media/Local.e74d19c1.svg",
     "static/media/Logo.89ee3a81.svg": "/jadoo-website/static/media/Logo.89ee3a81.svg",
     "static/media/Research.22a590c8.svg": "/jadoo-website/static/media/Research.22a590c8.svg",
+    "static/media/alitalia.62ccb9e8.svg": "/jadoo-website/static/media/alitalia.62ccb9e8.svg",
+    "static/media/axon.139faeaa.svg": "/jadoo-website/static/media/axon.139faeaa.svg",
     "static/media/customization.fa6eb981.svg": "/jadoo-website/static/media/customization.fa6eb981.svg",
+    "static/media/expedia.93094f93.svg": "/jadoo-website/static/media/expedia.93094f93.svg",
+    "static/media/jetstar.aaa9b8bc.svg": "/jadoo-website/static/media/jetstar.aaa9b8bc.svg",
     "static/media/nav.61a77f23.svg": "/jadoo-website/static/media/nav.61a77f23.svg",
     "static/media/payment.b7087434.svg": "/jadoo-website/static/media/payment.b7087434.svg",
+    "static/media/qantas.1c64a543.svg": "/jadoo-website/static/media/qantas.1c64a543.svg",
     "static/media/sat.bfbd1289.svg": "/jadoo-website/static/media/sat.bfbd1289.svg",
     "static/media/value1.0ce415c8.svg": "/jadoo-website/static/media/value1.0ce415c8.svg"
   },
@@ -27,6 +32,6 @@
     "static/js/runtime-main.e8b6255d.js",
     "static/js/2.478ccc17.chunk.js",
     "static/css/main.494a0a52.chunk.css",
-    "static/js/main.c0437192.chunk.js"
+    "static/js/main.db926e70.chunk.js"
   ]
 }
