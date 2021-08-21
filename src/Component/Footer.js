@@ -70,13 +70,13 @@ const Footer = () => {
           <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3 text-start">
             <div className="social-icons d-flex flex-column">
               <button className="social">
-                <FaFacebookF />
+                <FaFacebookF className="social-icon-size" />
               </button>
               <button className="social">
-                <AiOutlineInstagram />
+                <AiOutlineInstagram className="social-icon-size" />
               </button>
               <button className="social">
-                <AiOutlineTwitter />
+                <AiOutlineTwitter className="social-icon-size" />
               </button>
             </div>
           </div>
