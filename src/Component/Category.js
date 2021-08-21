@@ -6,7 +6,7 @@ import Local from "../Assests/Local.svg";
 import customization from "../Assests/customization.svg";
 const Category = () => {
   return (
-    <section className="p-5 bg">
+    <section className="p-4 bg">
       <h1 className="category-title text-center">category</h1>
       <h3 className="category-moto text-center p-4">We Offer Best Services</h3>
       <div className="container">
@@ -45,7 +45,7 @@ const Category = () => {
               </div>
             </div>
           </div>
-          <div className="col-md">
+          <div className="col-lg">
             <div className="card bg">
               <div className="card-body text-center">
                 <img

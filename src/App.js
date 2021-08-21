@@ -4,6 +4,7 @@ import Hero from "./Component/Hero";
 import Category from "./Component/Category";
 import Book from "./Component/Book";
 import Logo from "./Component/Logo";
+import Subscribe from "./Component/Subscribe";
 import { BrowserRouter as Router } from "react-router-dom";
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Category />
       <Book />
       <Logo />
+      <Subscribe />
     </>
   );
 };

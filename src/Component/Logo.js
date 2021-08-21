@@ -6,7 +6,7 @@ import qantas from "../Assests/qantas.svg";
 import alitalia from "../Assests/alitalia.svg";
 const Logo = () => {
   return (
-    <section className="bg p-5">
+    <section className="bg p-4">
       <div className="container">
         <div className="row g-4">
           <div className="col-lg col-md-4 col-sm-4 col-12 d-flex justify-content-center">

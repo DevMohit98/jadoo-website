@@ -135,6 +135,56 @@
   font-size: 1rem;
   color: #5e6282;
 }
+.subscribe-background {
+  width: 1170px;
+  height: 407px;
+  background-color: rgba(223, 215, 249, 0.2);
+  border-radius: 129px 20px 20px 20px;
+  position: relative;
+}
+.subscribe-text {
+  font-size: 2.06rem;
+  font-family: "Poppins ", sans-serif;
+  width: 53.6rem;
+  color: #5e6282;
+}
+.subscribe-input {
+  width: 421px;
+  height: 68px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+  color: #39425d;
+  font-size: 14px;
+  font-family: "Poppins ", sans-serif;
+  font-weight: 500;
+}
+.subscribe-button {
+  width: 180px;
+  height: 68px;
+  color: #ffffff;
+  font-size: 17px;
+  font-family: "Poppins ", sans-serif;
+  background-color: #ff946d;
+  border-radius: 10px;
+  border: none;
+}
+.input-group-text {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+.envelop {
+  height: 18px;
+  width: 21px;
+  color: #39425d;
+}
+.subscribe-tele {
+  position: absolute;
+  top: -2vh;
+  right: 0vh;
+}
 
 @media screen and (max-width: 576px) {
   .moto {
