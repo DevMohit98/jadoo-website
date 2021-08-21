@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jadoo-website/static/css/main.494a0a52.chunk.css",
-    "main.js": "/jadoo-website/static/js/main.db926e70.chunk.js",
-    "main.js.map": "/jadoo-website/static/js/main.db926e70.chunk.js.map",
-    "runtime-main.js": "/jadoo-website/static/js/runtime-main.e8b6255d.js",
-    "runtime-main.js.map": "/jadoo-website/static/js/runtime-main.e8b6255d.js.map",
-    "static/js/2.478ccc17.chunk.js": "/jadoo-website/static/js/2.478ccc17.chunk.js",
-    "static/js/2.478ccc17.chunk.js.map": "/jadoo-website/static/js/2.478ccc17.chunk.js.map",
-    "static/js/3.fa54ad92.chunk.js": "/jadoo-website/static/js/3.fa54ad92.chunk.js",
-    "static/js/3.fa54ad92.chunk.js.map": "/jadoo-website/static/js/3.fa54ad92.chunk.js.map",
+    "main.css": "/jadoo-website/static/css/main.059ea28c.chunk.css",
+    "main.js": "/jadoo-website/static/js/main.3b0f6776.chunk.js",
+    "main.js.map": "/jadoo-website/static/js/main.3b0f6776.chunk.js.map",
+    "runtime-main.js": "/jadoo-website/static/js/runtime-main.2c22a597.js",
+    "runtime-main.js.map": "/jadoo-website/static/js/runtime-main.2c22a597.js.map",
+    "static/js/2.3bbf22fa.chunk.js": "/jadoo-website/static/js/2.3bbf22fa.chunk.js",
+    "static/js/2.3bbf22fa.chunk.js.map": "/jadoo-website/static/js/2.3bbf22fa.chunk.js.map",
+    "static/js/3.903e9356.chunk.js": "/jadoo-website/static/js/3.903e9356.chunk.js",
+    "static/js/3.903e9356.chunk.js.map": "/jadoo-website/static/js/3.903e9356.chunk.js.map",
     "index.html": "/jadoo-website/index.html",
-    "static/css/main.494a0a52.chunk.css.map": "/jadoo-website/static/css/main.494a0a52.chunk.css.map",
-    "static/js/2.478ccc17.chunk.js.LICENSE.txt": "/jadoo-website/static/js/2.478ccc17.chunk.js.LICENSE.txt",
+    "static/css/main.059ea28c.chunk.css.map": "/jadoo-website/static/css/main.059ea28c.chunk.css.map",
+    "static/js/2.3bbf22fa.chunk.js.LICENSE.txt": "/jadoo-website/static/js/2.3bbf22fa.chunk.js.LICENSE.txt",
     "static/media/Flights.fe42589f.svg": "/jadoo-website/static/media/Flights.fe42589f.svg",
     "static/media/Image.0f20f7fe.svg": "/jadoo-website/static/media/Image.0f20f7fe.svg",
     "static/media/Local.e74d19c1.svg": "/jadoo-website/static/media/Local.e74d19c1.svg",
@@ -26,12 +26,13 @@
     "static/media/payment.b7087434.svg": "/jadoo-website/static/media/payment.b7087434.svg",
     "static/media/qantas.1c64a543.svg": "/jadoo-website/static/media/qantas.1c64a543.svg",
     "static/media/sat.bfbd1289.svg": "/jadoo-website/static/media/sat.bfbd1289.svg",
+    "static/media/telegram.97eff477.svg": "/jadoo-website/static/media/telegram.97eff477.svg",
     "static/media/value1.0ce415c8.svg": "/jadoo-website/static/media/value1.0ce415c8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8b6255d.js",
-    "static/js/2.478ccc17.chunk.js",
-    "static/css/main.494a0a52.chunk.css",
-    "static/js/main.db926e70.chunk.js"
+    "static/js/runtime-main.2c22a597.js",
+    "static/js/2.3bbf22fa.chunk.js",
+    "static/css/main.059ea28c.chunk.css",
+    "static/js/main.3b0f6776.chunk.js"
   ]
 }
