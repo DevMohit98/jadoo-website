@@ -185,6 +185,47 @@
   top: -2vh;
   right: 0vh;
 }
+.logo-text {
+  font: size 2.7rem;
+  font-family: "Poppins", sans-serif;
+  color: #181e4b;
+}
+.footer-p {
+  font-size: 0.8rem;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
+}
+.services-text {
+  font-size: 1.31rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  color: #080809;
+}
+.services-link {
+  text-decoration: none;
+  font-size: 1.12rem;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
+}
+.services-link:hover {
+  color: #4e6574;
+}
+.social {
+  display: inline;
+  width: 41px;
+  height: 41px;
+  border-radius: 50%;
+  outline: none;
+  border: none;
+  background-color: #ffffff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-bottom: 20px;
+}
+.rights-text {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  color: #5e6282;
+}
 @media screen and (min-width: 786px) and (max-width: 992px) {
   .subscribe-background {
     width: 800px;
