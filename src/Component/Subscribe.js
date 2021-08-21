@@ -6,7 +6,7 @@ const Subscribe = () => {
   return (
     <section className="bg p-4">
       <div className="container d-flex justify-content-center align-items-center">
-        <div className="subscribe-background text-center d-flex justify-content-center align-items-center flex-column">
+        <div className="subscribe-background  m-4 text-center d-flex justify-content-center align-items-center flex-column">
           <h1 className="subscribe-text mb-5">
             Subscribe to get information, latest news and other interesting
             offers about Cobham

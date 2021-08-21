@@ -187,12 +187,12 @@
 }
 @media screen and (min-width: 786px) and (max-width: 992px) {
   .subscribe-background {
-    width: 800px;
+    width: 700px;
     height: 407px;
     border-radius: 20px 20px 20px 20px;
   }
   .subscribe-text {
-    width: 50.6rem;
+    width: 38.6rem;
   }
   .subscribe-tele {
     width: 60px;
