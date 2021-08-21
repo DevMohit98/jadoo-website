@@ -211,7 +211,7 @@
   color: #4e6574;
 }
 .social {
-  display: inline;
+  display: inline-block;
   width: 41px;
   height: 41px;
   border-radius: 50%;
