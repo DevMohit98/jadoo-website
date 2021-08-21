@@ -11,7 +11,7 @@ const Subscribe = () => {
             Subscribe to get information, latest news and other interesting
             offers about Cobham
           </h1>
-          <div className="d-flex">
+          <div className="d-flex inputs">
             <div className="input-group">
               <span class="input-group-text" id="basic-addon1">
                 <BiEnvelope className="envelop" />

@@ -185,7 +185,42 @@
   top: -2vh;
   right: 0vh;
 }
-
+@media screen and (min-width: 786px) and (max-width: 992px) {
+  .subscribe-background {
+    width: 800px;
+    height: 407px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  .subscribe-text {
+    width: 50.6rem;
+  }
+  .subscribe-tele {
+    width: 60px;
+    height: 60px;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 786px) {
+  .subscribe-background {
+    width: 600px;
+    height: 407px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  .subscribe-tele {
+    width: 50px;
+    height: 50px;
+  }
+  .subscribe-text {
+    width: 30.6rem;
+  }
+  .inputs {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .subscribe-button {
+    margin-top: 20px;
+  }
+}
 @media screen and (max-width: 576px) {
   .moto {
     font-size: 3rem;
@@ -205,5 +240,33 @@
   .book-moto {
     font-size: 2rem;
     width: 21.9rem;
+  }
+  .subscribe-background {
+    width: 300px;
+    height: 407px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  .subscribe-tele {
+    width: 50px;
+    height: 50px;
+  }
+  .subscribe-text {
+    font-size: 1rem;
+    width: 15.6rem;
+  }
+  .inputs {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .subscribe-input {
+    width: 200px;
+    height: 68px;
+  }
+  .subscribe-button {
+    width: 150px;
+    height: 68px;
+    margin-top: 20px;
   }
 }
