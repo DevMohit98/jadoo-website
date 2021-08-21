@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="container">
         <div className="d-md-flex">
           <div>
-            <h1 className="tag-line">Best detination around the world</h1>
+            <h1 className="tag-line">Best destinations around the world</h1>
             <p className="moto">Travel,enjoy and live a new</p>
             <p className="hero-discription py-3 ">
               Built Wicket longer admire do barton vanity itself do in it.
