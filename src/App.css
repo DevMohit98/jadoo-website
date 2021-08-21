@@ -211,7 +211,9 @@
   color: #ff946d;
 }
 .social {
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 41px;
   height: 41px;
   border-radius: 50%;
